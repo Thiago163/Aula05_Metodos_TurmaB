@@ -1,0 +1,7 @@
+C:\Users\ggina\OneDrive\Área de Trabalho\Aula05_Metodos_TurmaB\Aula05_Metodos_TurmaB\bin\Debug\Aula05_Metodos_TurmaB.exe.config
+C:\Users\ggina\OneDrive\Área de Trabalho\Aula05_Metodos_TurmaB\Aula05_Metodos_TurmaB\bin\Debug\Aula05_Metodos_TurmaB.exe
+C:\Users\ggina\OneDrive\Área de Trabalho\Aula05_Metodos_TurmaB\Aula05_Metodos_TurmaB\bin\Debug\Aula05_Metodos_TurmaB.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\Aula05_Metodos_TurmaB\Aula05_Metodos_TurmaB\obj\Debug\Aula05_Metodos_TurmaB.csproj.AssemblyReference.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Aula05_Metodos_TurmaB\Aula05_Metodos_TurmaB\obj\Debug\Aula05_Metodos_TurmaB.csproj.CoreCompileInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Aula05_Metodos_TurmaB\Aula05_Metodos_TurmaB\obj\Debug\Aula05_Metodos_TurmaB.exe
+C:\Users\ggina\OneDrive\Área de Trabalho\Aula05_Metodos_TurmaB\Aula05_Metodos_TurmaB\obj\Debug\Aula05_Metodos_TurmaB.pdb

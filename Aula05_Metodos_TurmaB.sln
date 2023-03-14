@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula05_Metodos_TurmaB", "Aula05_Metodos_TurmaB\Aula05_Metodos_TurmaB.csproj", "{FF77F1E2-54CE-4137-98C9-CB3C09E038C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF77F1E2-54CE-4137-98C9-CB3C09E038C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF77F1E2-54CE-4137-98C9-CB3C09E038C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF77F1E2-54CE-4137-98C9-CB3C09E038C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF77F1E2-54CE-4137-98C9-CB3C09E038C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CACB92F-CD93-4201-8DCA-BF4E845ECE99}
+	EndGlobalSection
+EndGlobal
